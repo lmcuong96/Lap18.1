@@ -1,0 +1,19 @@
+.bg-img1 {
+    background:#000 url(./img/pexels-thisisengineering-3913025.jpg)  ;
+    background-size: cover;
+    height: 70vh;
+
+}
+.bg-img2 {
+    background:#000 url(./img/pexels-eberhard-grossgasteiger-1287142.jpg)  ;
+    background-size: cover;
+    height: 70vh;
+}
+.bg-img3 {
+    background:#000 url(./img/pexels-thisisengineering-3913025.jpg)  ;
+    background-size: cover;
+    height: 70vh;
+}
+.main {
+    height: 30vh;
+}
